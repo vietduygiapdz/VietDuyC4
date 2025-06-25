@@ -143,7 +143,7 @@
 <button id="playButton">Bắt đầu</button>
 
 <audio id="bgm" loop>
-  <source src="https://raw.githubusercontent.com/vietduygiapdz/thanks/18086585af079790d9df889bbdf9f1df544257a4/utomp3.com%20-%20Ph%C3%A9p%20M%C3%A0u%20%C4%90%C3%A0n%20C%C3%A1%20G%E1%BB%87%20OST%20%20Mounter%20x%20MAYDAYs%20Minh%20T%E1%BB%91c%20%20Official%20MV.mp3" type="audio/mpeg">
+  <source src="https://raw.githubusercontent.com/vietduygiapdz/VietDuyC4/fb4c071c58c6b7de859bd53f63ae6b6d34b21cc5/utomp3.com%20-%20Ph%C3%A9p%20M%C3%A0u%20%C4%90%C3%A0n%20C%C3%A1%20G%E1%BB%87%20OST%20%20Mounter%20x%20MAYDAYs%20Minh%20T%E1%BB%91c%20%20Official%20MV.mp3" type="audio/mpeg">
   Trình duyệt của bạn không hỗ trợ phát nhạc.
 </audio>
 
@@ -163,6 +163,8 @@
     "Mong mọi người sẽ nhớ tới tớ - Giáp Việt Duy C4 - A10K58!",
     "Chúc toàn đội hoạt động năng nổ, tích cực hơn trong tương lai nhé.",
     "Tạm biệt tất cả mọi người! Mong chúng ta sẽ còn gặp lại!",
+    "Chúng ta sẽ luôn là một phần của ngôi trường mang tên THPT Chu Văn An."
+    "Cảm ơn vì đã là một phần trong thanh xuân của nhau!"
   ];
 
   const hearts = ["💗", "💓", "💖", "💞", "💝", "❤️", "💕"];
